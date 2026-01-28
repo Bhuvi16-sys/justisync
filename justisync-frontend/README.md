@@ -35,6 +35,9 @@ Track your case in real-time
 Receive status updates from lawyers
 Get notifications for hearing dates
 Transparent progress bar like e-commerce tracking
+
+
+
 🧩 Tech Stack
 Category	Technologies
 Frontend	React.js, Tailwind CSS
